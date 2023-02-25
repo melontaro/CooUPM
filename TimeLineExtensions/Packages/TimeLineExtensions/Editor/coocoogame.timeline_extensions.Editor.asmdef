@@ -1,0 +1,18 @@
+{
+    "name": "coocoogame.timeline_extensions.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:13d58610d12ba4c489c7212e24b2ca31"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
