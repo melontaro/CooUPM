@@ -15,7 +15,7 @@ public class Test : MonoBehaviour
     {
         if(Input.GetKey(KeyCode.B))
         {
-            Debug.LogError("test1....");
+            Debug.LogError("test2....");
         }
     }
 }
